@@ -10,5 +10,5 @@ Technologies used:
 How the app works:
 1. The app runs in a loop and keeps on running until the user wants to exit.
 2. The app takes user input.
-3. According to the input, the app does the activity like adding expenses, viewing total expenses or showing the total amount soent in a day.
+3. According to the input, the app does the activity like adding expenses, viewing total expenses or showing the total amount spent in a day.
 
